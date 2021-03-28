@@ -1,0 +1,4 @@
+---
+auth:passwd: PASSWORD
+dmon:listen: tcp://127.0.0.1:12345
+https:port: 12346
